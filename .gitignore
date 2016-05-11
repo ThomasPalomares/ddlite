@@ -18,3 +18,5 @@ examples/mindtagger
 
 # pickled data from notebooks
 *.pkl
+
+*.DS_Store

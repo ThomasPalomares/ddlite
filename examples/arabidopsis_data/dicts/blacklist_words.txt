@@ -181,3 +181,4 @@ id	stop_word
 120	WITHOUT
 172	WOODY
 125	WOULD
+1	localized

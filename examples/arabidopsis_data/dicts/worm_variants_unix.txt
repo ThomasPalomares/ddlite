@@ -1,0 +1,2500 @@
+Term
+Acetylcholinesterase reduced
+Acidification level defective
+Actin cytoskeleton dynamics variant
+Actin cytoskeleton filament morphology variant
+Actin organization biogenesis variant
+Adult lethal
+Adult pigmentation variant
+Age associated fluorescence increased
+Age associated fluorescence reduced
+Aging variant
+Alternative splicing variant
+Anaphase bridging
+Anoxia hypersensitive
+Anoxia resistant
+Anoxia response attenuated
+Anterograde transport defective
+Anterograde transport variant
+Antibody staining increased
+Antibody staining reduced
+Antibody staining variant
+Antibody subcellular localization variant
+Anticonvulsant resistant
+Anticonvulsant response variant
+Antihelmintic response variant
+Antimicrobial gene expression variant
+Apoptosis fails to occur
+Apoptosis increased
+Apoptosis protracted
+Apoptosis reduced
+Apoptosis variant
+Apoptotic arrest
+Approximate vulval location variant
+Aqueous adaptation defective
+Aqueous chemosensory response variant
+Aqueous compound discrimination defective
+Aqueous negative chemotaxis defective
+Aqueous negative chemotaxis variant
+Aqueous positive chemotaxis defective
+Aqueous positive chemotaxis variant
+Arecoline hypersensitive
+Arecoline resistant
+Associative learning variant
+Aster AB defective early emb
+Aster AB resembles P1 aster early emb
+Aster defective early emb
+Asymmetric cell division defective early emb
+Asymmetric cell division variant
+Athermotactic
+Attraction signal defective
+Autophagic cell death variant
+Autosomal nondisjunction meiosis
+Avoids bacterial lawn
+Axodendritic polarity variant
+Axon branching variant
+Axon development variant
+Axon fasciculation variant
+Axon guidance variant
+Axon midline crossing variant
+Axon outgrowth variant
+Axoneme morphology variant
+Axoneme short
+B lineage variant
+Bacillus thuringiensis toxin resistant
+Backing increased
+Backing not sustained
+Backing uncoordinated
+Backward kinker
+Backward locomotion variant
+Bacterially unswollen
+Bag of worms
+Behavior variant
+Benomyl response variant
+Benzaldehyde chemotaxis defective
+Benzaldehyde chemotaxis variant
+Biofilm absent head
+Biogenic amine physiology variant
+Biogenic amine receptor antagonist resistant
+Biosynthesis variant
+Bis phenol A hypersensitive
+Bis phenol A response variant
+Blast cell development variant
+Blast cell morphology variant
+Blast cell physiology variant
+Blast cell proliferation reduced
+Blastocoel variant
+Bleach hypersensitive
+Bleach response variant
+Blistered
+Bloated
+Body axis pigmentation variant
+Body constriction
+Body development variant
+Body elongation defective
+Body elongation retracted
+Body elongation variant
+Body length variant
+Body levamisole resistant
+Body morphology variant
+Body muscle dystrophies
+Body part pigmentation variant
+Body posture variant
+Body protrusions
+Body region pigmentation variant
+Body size enlarged
+Body size reduced
+Body size variant
+Body twisted
+Body vacuole
+Body wall cell development variant
+Body wall contraction interval variant
+Body wall muscle cell spindle development variant
+Body width variant
+Bordering
+Break induced focus formation variant
+Bromide chemotaxis defective
+Bromide chemotaxis variant
+Brood size variant
+Butanone chemotaxis defective
+Butanone chemotaxis variant
+C lineage variant
+CAMP chemotaxis defective
+CAMP chemotaxis variant
+CAN cell migration variant
+CGMP chemotaxis defective
+CGMP chemotaxis variant
+Cadmium hypersensitive
+Cadmium resistant
+Cadmium response variant
+Caffeine resistant
+Calcium channel modulator hypersensitive
+Calcium channel modulator resistant
+Calcium channel modulator response variant
+Carbon dioxide avoidance variant
+Carbon dioxide response variant
+Catalysis variant
+Cation positive chemotaxis defective
+Cation positive chemotaxis variant
+Cell UV hypersensitive
+Cell UV response variant
+Cell acidification defective
+Cell acidification variant
+Cell adhesion variant
+Cell cell contacts defective early emb
+Cell cell contacts variant four emb
+Cell cleavage delayed
+Cell cleavage variant
+Cell corpse appearance delayed
+Cell corpse degradation variant
+Cell corpse digestion variant
+Cell corpse number variant
+Cell cycle arrest
+Cell cycle defective early emb
+Cell cycle delayed
+Cell cycle slow early emb
+Cell cycle timing defective early emb
+Cell cycle variant
+Cell death sexually dimorphic increased
+Cell death sexually dimorphic variant
+Cell death variant
+Cell degeneration
+Cell development variant
+Cell differentiation variant
+Cell division failure
+Cell division incomplete
+Cell division polarity variant
+Cell division precocious
+Cell division slow
+Cell division variant
+Cell fate specification variant
+Cell fate transformation
+Cell fusion variant
+Cell gamma ray hypersensitive
+Cell gamma ray resistant
+Cell gamma ray response variant
+Cell growth variant
+Cell homeostasis metabolism variant
+Cell induction variant
+Cell ionizing radiation response variant
+Cell junction variant
+Cell membrane morphology variant
+Cell migration failure
+Cell migration variant
+Cell morphology variant
+Cell organization biogenesis variant
+Cell physiology variant
+Cell pigmentation variant
+Cell polarity reversed
+Cell polarity variant
+Cell position defective early emb
+Cell proliferation increased
+Cell proliferation reduced
+Cell proliferation variant
+Cell secretion variant
+Cell stress response variant
+Cell survival sexually dimorphic increased
+Cellular secretion abnormal
+Centration defective early emb
+Centriole biogenesis variant
+Centrosome attachment defective early emb
+Centrosome pair and associated pronuclear rotation variant
+Cephalic sensillum morphology variant
+Chemical resistant
+Chemical response variant
+Chemosensation defective
+Chemosensation variant
+Chemosensory behavior variant
+Chemosensory neuron development variant
+Chemosensory response variant
+Chemotaxis variant
+Chloride chemotaxis defective
+Chloride chemotaxis variant
+Chloroquinone hypersensitive
+Chloroquinone resistant
+Cholesterol depletion hypersensitive
+Cholinergic agonist hypersensitive
+Cholinergic agonist resistant
+Chondroitin biosynthesis variant
+Chromosome alignment variant
+Chromosome disjunction defective
+Chromosome instabilities
+Chromosome segregation variant
+Cilia absent
+Cilia mislocalized
+Cilia morphology variant
+Ciliated neuron morphology variant
+Ciliated neuron physiology variant
+Circadian rhythm behavior variant
+Clear
+Cleavage furrow defective early emb
+Cleavage furrow initiation defective early emb
+Cleavage furrow not discrete early emb
+Cleavage furrow termination defective early emb
+Coelomic system development variant
+Coelomic system morphology variant
+Coelomic system physiology variant
+Coelomocyte physiology variant
+Coelomocyte uptake defective
+Coelomocyte uptake increased
+Coenzyme Q depleted
+Coiler
+Colchicine hypersensitive
+Colchicine resistant
+Comma arrest emb
+Commissure handedness defective
+Commisure growth variant
+Complex phenotype early emb
+Connected mitochondria
+Connective tissue morphology variant
+Connective tissue variant
+Constipated
+Constitutive egg laying
+Constitutive enzyme activities
+Constitutive larval display
+Contraction response to ouabain resistant
+Copper hypersensitive
+Copper response variant
+Copulation variant
+Corpus contraction defect
+Cortical dynamics defective early emb
+Cross link induced focus formation variant
+Cryophilic
+Curlies
+Curly
+Cuticle attachment variant
+Cuticle carbohydrate surface variant
+Cuticle development variant
+Cuticle fragile
+Cuticle integrity variant
+Cuticle morphology variant
+Cuticle physiology variant
+Cuticle shedding defect
+Cyclic nucleotide positive chemotaxis variant
+Cyproheptadine resistant
+Cytokinesis defective early emb
+Cytokinesis fails early emb
+Cytokinesis variant emb
+Cytoplasmic RNAi defective
+Cytoplasmic appearance defective early emb
+Cytoplasmic appearance variant
+Cytoplasmic dynamics defective early emb
+Cytoplasmic morphology defective early emb
+Cytoplasmic processing body variant
+Cytoplasmic streaming defective
+Cytoplasmic structure defective early emb
+Cytoskeleton organization biogenesis variant
+D lineage variant
+DAPI staining variant
+DMPP resistant
+DMPP response variant
+DNA damage checkpoint variant
+DNA damage induced focus formation variant
+DNA damage response variant
+DNA metabolism variant
+DNA recombination variant
+DNA synthesis variant
+Dauer amphid sensillum variant
+Dauer arrest variant
+Dauer axial ratio variant
+Dauer behavior variant
+Dauer body morphology variant
+Dauer buccal cavity morphology variant
+Dauer cephalic sensillum variant
+Dauer constitutive
+Dauer cuticle variant
+Dauer death increased
+Dauer defective
+Dauer deirid sensillum variant
+Dauer development variant
+Dauer excretory gland variant
+Dauer feeding suppressed variant
+Dauer formation variant
+Dauer gonad arrest variant
+Dauer gut variant
+Dauer induction variant
+Dauer inner labial sensillum variant
+Dauer labial sensillum variant
+Dauer lifespan variant
+Dauer metabolism variant
+Dauer nictation behavior variant
+Dauer nose morphology variant
+Dauer outer labial sensillum variant
+Dauer pharynx morphology variant
+Dauer pheromone production defective
+Dauer pheromone secretion variant
+Dauer pheromone sensation defective
+Dauer pheromone sensation variant
+Dauer recovery inhibited
+Dauer recovery variant
+Dauer reduced locomotion variant
+Dauer resistance to harsh conditions variant
+Dauer sensillum variant
+Dauer sensory response variant
+Dauer sensory system morphology variant
+Dead eggs laid
+Defecation contraction asynchronous
+Defecation contraction variant
+Defecation cycle temperature compensation variant
+Defecation cycle variable length
+Defecation cycle variants
+Defecation missing motor steps
+Defecation variant
+Deirid sensillum morphology variant
+Delayed hatching
+Dendrite development variant
+Dense core vesicle exocytosis variant
+Development variant
+Developmental behavior variant
+Developmental delay
+Developmental growth variant
+Developmental morphology variant
+Developmental pigmentation variant
+Developmental timing variant
+Diacetyl chemotaxis defective
+Diacetyl chemotaxis variant
+Diet induced life span variant
+Diethyl ether hypersensitive
+Diplo X gamete
+Directionality variant
+Disorganized pharyngeal EPG
+Distal tip cell migration precocious
+Distal tip cell migration variant
+Distal tip cell morphology variant
+Distal tip cell reflex failure
+Division EMS before P2 early emb
+Division axis defective early emb
+Dominant negative enzyme
+Dopamine adaptation defective
+Dopamine adaptation variant
+Dopamine catabolism defective
+Dopamine deficient
+Dopamine metabolism variant
+Dopamine synthesis defective
+Dorsal coiler
+Dosage compensation complex assembly variant
+Dosage compensation variant
+Drug adaptation variant
+Drug hypersensitive
+Drug induced gene expression variant
+Drug induced life span variant
+Drug induced locomotion variant
+Drug resistant
+Drug response variant
+Drug withdrawal response variant
+Dumpies
+Dumpy
+Duration of self fertility variant
+E lineage variant
+EMS anterior extension extreme early emb
+EMS anterior extension fails early emb
+ER stress response variant
+Early divisions prolonged
+Early eggs laid
+Early elongation arrest
+Early embryonic lethal
+Early exit cell cycle
+Early larval arrest
+Early larval lethal
+Echo defecation cycle
+Ectopic axon outgrowth
+Ectopic cell
+Ectopic cleavage furrows early emb
+Ectopic expression antibodies
+Ectopic expression transgene
+Ectopic neurite outgrowth
+Ectopic neuron
+Egg integrity defective early emb
+Egg laying circuit variant
+Egg laying defective
+Egg laying event infrequent
+Egg laying imipramine hypersensitive
+Egg laying imipramine resistant
+Egg laying irregular
+Egg laying levamisole resistant
+Egg laying phases variant
+Egg laying phentolamine resistant
+Egg laying response to drug variant
+Egg laying response to food variant
+Egg laying serotonin hypersensitive
+Egg laying serotonin resistant
+Egg laying serotonin variant
+Egg laying variant
+Egg long
+Egg morphology variant
+Egg pale
+Egg retention
+Egg round
+Egg shape variable
+Egg size defective early emb
+Eggshell morphology variant
+Electrophoretic variant protein
+Electrophysiology variant
+Embryo delayed at pronuclear contact early emb
+Embryo disorganized
+Embryo osmotic integrity defective early emb
+Embryo osmotic pressure sensitive early emb
+Embryo small
+Embryonic arrest
+Embryonic behavior variant
+Embryonic cell fate specification variant
+Embryonic cell lineage variant
+Embryonic cell morphology variant
+Embryonic cell organization biogenesis variant
+Embryonic cell patterning variant
+Embryonic cell physiology variant
+Embryonic development variant
+Embryonic developmental delay early emb
+Embryonic growth variant
+Embryonic lethal
+Embryonic morphology defective early emb
+Embryonic morphology variant
+Embryonic pigmentation variant
+Embryonic polarity variant
+Embryonic rupture
+Embryonic somatic cell fate specification variant
+Embryonic terminal arrest variable emb
+Embryos small early emb
+Emetine hypersensitive
+Endo siRNA binding variant
+Endo siRNA production variant
+Endocytic recycling defective
+Endocytic transport defect
+Endocytic transport variant
+Endoderm absent
+Endogenous synaptic amplitude variant
+Endogenous synaptic event frequency reduced
+Endogenous synaptic events variant
+Endogenous transposase levels increased
+Endoplasmic reticulum metabolism variant
+Endoplasmic reticulum morphology variant
+Endoplasmic reticulum symmetry variant early emb
+Endoreduplication variant
+Endosome biogenesis variant
+Endosome fusion defective
+Endosome to lysosome trafficking defective
+Energy expenditure variant
+Enflurane hypersensitive
+Engulfment failure by killer
+Engulfment variant
+Enhanced locomotion defective
+Enhanced taste aversion defective
+Environmental stimuli induced gene expression variant
+Enzyme activity increased
+Enzyme activity reduced
+Enzyme activity variant
+Enzyme expression level reduced
+Epidermis cuticle detached
+Epidermis muscle detached
+Epithelial attachment variant
+Epithelial cell development variant
+Epithelial cell fusion failure
+Epithelial cell morphology variant
+Epithelial cell physiology variant
+Epithelial system development variant
+Epithelial system morphology variant
+Epithelial system physiology variant
+Ethanol hypersensitive
+Ethanol resistant
+Ethosuximide resistant
+Ethyl methanesulfonate response variant
+Evoked postsynaptic amplitude reduced
+Evoked postsynaptic current variant
+Exaggerated asynchrony early emb
+Excess maternal pronucleus early emb
+Excess paternal pronucleus variant centrosome early emb
+Excess pronucleus early emb
+Excessive blebbing early emb
+Excretory secretory system development variant
+Excretory secretory system morphology variant
+Excretory secretory system physiology variant
+Excretory system development variant
+Excretory system morphology variant
+Excretory system physiology variant
+Exocytosis variant
+Exploded through vulva
+Expression lipogenic enzyme reduced
+Expulsion defective
+Expulsion infrequent
+Expulsion variant
+Extended life span
+Extra cell division postembryonic
+Extracellular matrix variant
+F lineage variant
+Failure to hatch
+Fainter
+Fat
+Feeding behavior variant
+Feeding inefficient
+Feminization of XX and XO animals
+Feminization of germ line
+Feminization of germline
+Fertility reduced
+Fertility variant
+Fertilization defect male
+Fertilization defective
+Fewer egg laying events during active
+Flaccid
+Fluoride resistant
+Fluorouracil resistant
+Fluoxetine hypersensitive
+Fluoxetine resistant
+Food suppressed pumping variant
+Foraging behavior variant
+Foraging hyperactive
+Foraging reduced
+Forward kinker
+Frequency body bend reduced
+G lineages variant
+G tract instabilities
+G1 checkpoint variant
+GABA levels variant
+GABA synaptic transmission variant
+Gametogenesis variant
+Gamma ray induced apoptosis increased
+Garlic chemotaxis defective
+Garlic chemotaxis variant
+Gastrulation variant
+Gene expression level high
+Gene expression level reduced
+Gene expression variant
+General pace of development defective early emb
+General pace of development variant
+Genetic pathway activation variant
+Genetic pathway variant
+Genotoxic induced apoptosis variant
+Germ cell cytoplasmic morphology variant
+Germ cell death response to 5 FU resistant
+Germ cell hypersensitive ionizing radiation
+Germ cell ionizing radiation response variant
+Germ cell mitosis metaphase to anaphase transition block
+Germ cell morphology variant
+Germ cell physiology variant
+Germ cell resistant ionizing radiation
+Germline RNAi resistant
+Germline mortal
+Germline transgene silencing variant
+Glycosyltransferase activity variant
+Gonad development variant
+Gonadal lineage variant
+Granules cytoplasm
+Growth arrest response to 5 FU resistant
+Growth rate variant
+Growth variant
+High oxygen hypersensitive
+High oxygen resistant
+High sodium chloride concentration osmotic avoidance defective
+High sodium chloride concentration osmotic avoidance variant
+Homologous recombination increased
+Induced cell death variant
+Intercellular junction variant
+Interphase entry defective early emb
+Lethal
+Ligand binding variant
+Ligand gated channel activity variant
+Lipid composition variant
+Lipid depleted
+Lipid hydrolysis regulation variant
+Lipid metabolism variant
+Lipid modification variant
+Lipid synthesis defective
+Lipid synthesis increased
+Lithium chemotaxis defective
+Localized movement variant
+Locomotion rate serotonin hypersensitive
+Locomotion rate serotonin resistant
+Locomotion rate serotonin variant
+Locomotion reduced
+Locomotion variant
+Locomotor coordination variant
+Locomotory rhythm variant
+Long
+Loose mitotic furrow early emb
+Loss of asymmetry ASE
+Loss of left right neuronal asymmetries
+Low incidence male progenies
+Lumpies
+Lumpy
+Lysine chemotaxis defective
+Lysosome homeostasis deficient
+Lysosome organization biogenesis variant
+MMS hypersensitive
+MRNA export variant
+MRNA expression variant
+MRNA levels increased
+MRNA levels reduced
+MRNA splicing variant
+MRNA surveillance defective
+MRNA turnover variant
+MS lineage variant
+Magnesium chemotaxis defective
+Manganese cellular homeostasis variant
+Manganese response variant
+Marginal cell development variant
+Marginal cell morphology variant
+Marginal cell physiology variant
+Masculinization of germ line
+Masculinization of germline
+Masculinized
+Mate finding defective
+Mate searching variant
+Maternal effect lethal emb
+Maternal effect sterile
+Maternal pronucleus indistinct early emb
+Maternal sterile
+Mating latency increased
+Mating plug deficient
+Mating plug produced
+Mechanosensation variant
+Meiosis defective early emb
+Meiosis metaphase to anaphase transition block
+Meiotic chromosome segregation variant
+Meiotic spindle defective early emb
+Membrane trafficking variant
+Memory retention defective
+Metabolic pathway variant
+Metal response variant
+Metaphase to anaphase transition defect
+Methiothepin resistant
+Methyl methanesulfonate hypersensitive
+Methyl methanesulfonate response variant
+MiRNA expression variant
+Mianserin resistant
+Microsatellite instabilities
+Microtubule depolymerization variant
+Microtubule nucleation variant
+Microtubule organization biogenesis variant
+Microtubule polymerization variant
+Mid larval arrest
+Mid larval lethal
+Mitochondria alignment variant
+Mitochondria morphology variant
+Mitochondria spacing variant
+Mitochondria vesiculated
+Mitochondrial membrane potential reduced
+Mitochondrial metabolism variant
+Mitosis variant
+Mitotic chromosome segregation variant
+Mitotic metaphase to anaphase transition defect
+Mitotic spindle asters defective early emb
+Mitotic spindle defective early emb
+Molt defect
+Morphology variant
+Motor neuron morphology variant
+Movement erratic
+Movement reduced
+Movement variant
+Multiple cytoplasmic cavities early emb
+Multiple nuclei early emb
+Multipolar neuron
+Multivulva
+Muscimol hypersensitive
+Muscimol resistant
+Muscle arm development variant
+Muscle attachment variant
+Muscle cell activity variant
+Muscle cell attachment variant
+Muscle cell development variant
+Muscle cell morphology variant
+Muscle cell physiology variant
+Muscle detached
+Muscle dystrophies
+Muscle excess
+Muscle missing
+Muscle system development variant
+Muscle system morphology variant
+Muscle system physiology variant
+NaCl chemotaxis defective
+Necrotic cell death increased
+Necrotic cell death variant
+Negative chemotaxis variant
+Nervous system development variant
+Nervous system morphology variant
+Nervous system physiology variant
+Neurite development variant
+Neurite morphology variant
+Neuromuscular synaptic transmission variant
+Neuron activation variant
+Neuron cell body absent misplaced
+Neuron degeneration
+Neuron development variant
+Neuron function reduced
+Neuron migration variant
+Neuron morphology variant
+Neuron number variant
+Neuron physiology variant
+Neuron positioning variant
+Neuronal ECM variant
+Neuronal cell fate specification variant
+Neuronal ion channel clustering defective
+Neuronal outgrowth variant
+Neuronal synaptic transmission variant
+Neuropeptide metabolism variant
+Neuropeptide processing variant
+Neurotransmitter metabolism variant
+Nicotine hypersensitive
+Nicotine resistant
+Nicotine response variant
+No adult cuticle
+No back end
+No cleavage furrow first division early emb
+No cuticle
+No dauer recoveries
+No defecation cycle
+No expulsion defecation
+No male progenies
+No transport distal segment cilia
+No transport middle segment cilia
+No uterus
+Non apoptotic cell death variant
+Non bordering
+Nonanone chemotaxis defective
+Nonanone chemotaxis variant
+Nonsense mRNA accumulation
+Nose morphology variant
+Nose resistant to fluoxetine
+Nose rounded
+Nose touch defective
+Nose touch hypersensitive
+Nose touch variant
+Nose twisted
+Nuclear RNAi defective
+Nuclear appearance number defective early emb
+Nuclear appearance variant
+Nuclear division variant
+Nuclear envelope assembly variant early emb
+Nuclear envelope breakdown variant
+Nuclear export defective
+Nuclear membrane morphology variant
+Nuclear morphology variation early emb
+Nuclear number defective early emb
+Nuclear number variant
+Nuclear pore variant
+Nuclear position defective early emb
+Nuclear positioning variant
+Nuclear rotation variant
+Nuclei enlarged
+Nuclei small
+Nucleocytoplasmic transport defective
+Nucleolus refraction variant
+Nucleolus variant
+Nucleus defective early emb
+Nucleus reforms cell division remnant early emb
+Nullo X gamete
+Octanol chemotaxis defective
+Octanol chemotaxis hypersensitive
+Octanol chemotaxis variant
+Octopamine deficient
+Octopamine metabolism variant
+Odorant adaptation variant
+Odorant chemosensory response variant
+Odorant discrimination defective
+Odorant imprinting variant
+Odorant negative chemotaxis defective
+Odorant negative chemotaxis variant
+Odorant positive chemotaxis defective
+Odorant positive chemotaxis variant
+Olfactory imprinting abnormal
+Omega turns variant
+One cell arrest early emb
+One cell shape defective early emb
+One point five fold arrest emb
+Oocyte morphology variant
+Oocyte physiology variant
+Organ senescence variant
+Organ system development variant
+Organ system morphology variant
+Organ system physiology variant
+Organ system pigmentation variant
+Organelle fusion defective
+Organelle metabolism variant
+Organelle organization biogenesis variant
+Organism UV hypersensitive
+Organism UV resistant
+Organism UV response variant
+Organism X ray response variant
+Organism behavior variant
+Organism crowding response variant
+Organism dessication response variant
+Organism development variant
+Organism electrophilic stress hypersensitive
+Organism environmental stimulus response variant
+Organism gamma ray response variant
+Organism heat hypersensitive
+Organism heat response variant
+Organism high sodium chloride hypersensitive
+Organism homeostasis metabolism variant
+Organism hypersensitive X ray irradiation
+Organism hypersensitive dessication
+Organism hypersensitive gamma irradiation
+Organism hypersensitive interstrand cross link agents
+Organism hypersensitive ionizing radiation
+Organism hypertonic lethality increased
+Organism ionizing radiation response variant
+Organism metabolism processing variant
+Organism morphology variable
+Organism morphology variants
+Organism osmotic stress response variant
+Organism oxidative stress resistant
+Organism oxidative stress response hypersensitive
+Organism oxidative stress response variant
+Organism pathogen response variant
+Organism physiology variant
+Organism pigmentation variant
+Organism response to pH variant
+Organism segment development variant
+Organism segment morphology variant
+Organism starvation hypersensitive
+Organism starvation response variant
+Organism stress response variant
+Organism temperature response variant
+Organism toxic chemical response variant
+Osmotic avoidance defective
+Osmotic avoidance variant
+Osmotic integrity variant
+Osmotic stress response variant
+Other abnormality early emb
+Ouabain resistant
+Outer labial morphology variant
+Over retracted male tail
+Overinduced
+Ovulation variant
+Oxidative stress response variant
+Oxygen response variant
+P cell cleavage delayed
+P granule defective
+P granule localization defective
+P lineages variant
+P0 spindle absent early emb
+P0 spindle position defective early emb
+P0 spindle rotation delayed early emb
+P0 spindle rotation failure early emb
+P1 aster defective early emb
+P2 EMS synchronous division early emb
+P4 lineage variant
+Pace of P lineage defective early emb
+Pale
+Paralysis response to ethanol hypersensitive
+Paralysis response to ethanol resistant
+Paralyzed
+Paraquat hypersensitive
+Paraquat resistant
+Paraquat response variant
+Passage through meiosis defective early emb
+Patchy coloration
+Paternal pronucleus migrates early emb
+Pathogen adherence defect
+Pathogen adherence variant
+Pathogen induced cell death increased
+Pathogen induced cell death reduced
+Pathogen induced cell death variant
+Pathogen induced death increased
+Pathogen induced gene expression variant
+Pathogen infected pharynx decrease
+Pathogen infected pharynx variant
+Pathogen load variant
+Pathogen resistance increased
+Pathogen susceptibility increased
+Pattern of gene expression variant
+Pattern of transgene expression variant
+Pattern protein expression variant
+Pentanedione chemotaxis variant
+Pentanol chemotaxis defective
+Pentanol chemotaxis variant
+Pericellular component development variant
+Pericellular component morphology variant
+Pericellular component physiology variant
+Periodic spicule prodding defective
+Peroxisome morphology variant
+Peroxisome physiology variant
+Pesticide response variant
+Phagosome maturation defective
+Pharyngeal contraction defective
+Pharyngeal contraction variant
+Pharyngeal intestinal valve morphology variant
+Pharyngeal muscle paralyzed
+Pharyngeal pumping increased
+Pharyngeal pumping irregular
+Pharyngeal pumping rate variant
+Pharyngeal pumping reduced
+Pharyngeal pumping shallow
+Pharyngeal pumping variant
+Pharyngeal pumps brief
+Pharyngeal relaxation defective
+Pharyngeal relaxation variant
+Pharynx slipperies
+Phasmid morphology variant
+Phasmid socket absent
+Phentolamine resistant
+Pheromone induced dauer formation defective
+Pheromone induced dauer formation enhanced
+Pheromone induced dauer formation variant
+Pheromone induced larval display defective
+Pheromone sensation variant
+Pheromone suppressed pumping defective
+Phorbol ester resistant
+Phototaxis defective
+Physiology variant
+Pigmentation variant
+Pirouette frequency variant
+Pirouette variant
+Plate tap reflex variant
+Pleiotropic defects severe early emb
+Pointed tail tip male
+Polar body defective early emb
+Polar body extrusion defective early emb
+Polar body number defective early emb
+Polar body number size early emb
+Polar body reabsorbed early emb
+Polar body reabsorbed one two early emb
+Polar body size defective early emb
+Positive chemotaxis defective
+Positive chemotaxis variant
+Post hermaphrodite contact variant
+Post male contact variant
+Post translational processing variant
+Postembryonic behavior variant
+Postembryonic cell lineage variant
+Postembryonic development variant
+Posterior body dumpies
+Posterior body morphology variant
+Posterior body thin
+Posterior body wall contraction defecation cycle variant
+Posterior body wall contraction defectives
+Posterior body wall shortened interval
+Posterior cell migration variant
+Posterior neuron migration variant
+Posterior pale
+Posterior pigmentation variant
+Posterior region morphology variant
+Postsynaptic region physiology variant
+Potassium chemotaxis defective
+Pre hermaphrodite contact variant
+Pre mRNA levels increased
+Pre male contact variant
+Precise vulval location variant
+Precocious alae
+Precocious cell fusion
+Precocious heterochronic variations
+Precocious seam cell fusion
+Presynaptic region physiology variant
+Pretzel arrest
+Progeny variant
+Programmed cell death variant
+Progressive muscle detachment
+Progressive paralysis
+Prolonged pharyngeal contraction
+Pronuclear breakdown asynchronous early emb
+Pronuclear breakdown defective early emb
+Pronuclear envelope defective early emb
+Pronuclear envelope morphology defective early emb
+Pronuclear migration defective early emb
+Pronuclear migration failure early emb
+Pronuclear migration reduced early emb
+Pronuclear morphology defective early emb
+Pronuclear nuclear appearance defective early emb
+Pronuclear nuclear appearance variant emb
+Pronuclear number defective early emb
+Pronuclear size defective early emb
+Pronuclei meet centrally early emb
+Pronucleus centrosomes defective early emb
+Pronucleus formation failure early emb
+Protein DNA interaction variant
+Protein aggregation variant
+Protein degradation variant
+Protein export from nucleus defective
+Protein expression absent
+Protein expression ectopic
+Protein expression increased
+Protein expression reduced
+Protein expression variant
+Protein interaction variant
+Protein localization abnormal
+Protein metabolism variant
+Protein methylation variant
+Protein modification variant
+Protein neddylation variant
+Protein phosphorylation increased
+Protein phosphorylation reduced
+Protein phosphorylation variant
+Protein protein interaction variant
+Protein rna interaction abolished
+Protein secretion variant
+Protein signaling variant
+Protein stabilization variant
+Protein subcellular localization variant
+Protein transport variant
+Protein ubiquitination variant
+Pseudocleavage absent early emb
+Pseudocleavage defective early emb
+Pseudocleavage exaggerated early emb
+Pseudocoelom development variant
+Pseudocoelom morphology variant
+Pumping absent
+Pumping asynchronous
+Pyrazine chemotaxis defective
+Pyrazine chemotaxis variant
+Q lineage variant
+Q neuroblast lineage migration variant
+Quiescence variant
+Quinine chemotaxis defective
+Quinine chemotaxis variant
+RNA degradation variant
+RNA expression variant
+RNA metabolism variant
+RNA processing variant
+RNAi enhanced
+RNAi persistence variant
+RNAi resistant
+RNAi response variant
+Radiation induced germ cell apoptosis resistant
+Radiation induced reproductive cell death variant
+Ray fusion
+Ray loss
+Ray tips swollen
+Rays displaced
+Rays fused
+Rays missing
+Receptor mediated endocytosis defective
+Reduced brood size
+Reduced fecundity of injected worm
+Reduced pathogen accumulation
+Reduced viability after freezing
+Relative cell cycle timing defective early emb
+Reproductive system development variant
+Reproductive system morphology variant
+Reproductive system physiology variant
+Resistant to copper
+Resistant to mutagens
+Response to food variant
+Response to injury variant
+Response to multiple stressors variant
+Retarded heterochronic variations
+Reversed asynchrony early emb
+Rhythm slow
+Rhythmic behavior variant
+Rhythmic tolerance to osmotic stress variant
+Rhythmic tolerance to stress variant
+Right handed roller
+Roaming reduced
+Rod like larval lethal
+Roller
+Rubber band
+Rubberband
+S phase checkpoint variant
+SDS sensitive dauer
+SM migration variant
+Satiety behavior variant
+Scrawnies
+Scrawny
+Seam cell fusion variant
+Second adult cuticle
+Second messenger mediated signaling variant
+Semi sterile
+Sensilium sheath cell variant
+Sensillum accessory cell morphology variant
+Sensillum morphology variant
+Serotonin catabolism defective
+Serotonin deficient
+Serotonin hypersensitive
+Serotonin induced fat reduction variant
+Serotonin induced pumping variant
+Serotonin metabolism variant
+Serotonin resistant
+Serotonin response variant
+Serotonin reuptake inhibitor hypersensitive
+Serotonin reuptake inhibitor resistant
+Serotonin synthesis defective
+Sex determination variant
+Sexual maturation defective
+Sexually dimorphic behavior variant
+Sexually dimorphic development variant
+Sexually dimorphic lethalities
+Sexually dimorphic mechanosensation variant
+Sexually dimorphic morphology variant
+Sexually dimorphic physiology variant
+Shaker
+Sheath cell secretion failure
+Sheath cell secretion variant
+Short
+Shrinker
+SiRNA expression variant
+Sick
+Sinusoidal movement variant
+Sister chromatid segregation defective early emb
+Skiddies
+Skiddy
+Slow development
+Slow embryonic development
+Slow growth
+Slowing response on food variant
+Sluggish
+Small
+Social behavior variant
+Social feeding increased
+Sodium acetate adaptation defective
+Sodium acetate chemotaxis defective
+Sodium acetate chemotaxis variant
+Sodium chemotaxis defective
+Sodium chloride adaptation defective
+Sodium chloride chemotaxis defective
+Sodium chloride chemotaxis variant
+Solitary feeding increased
+Somatic cell death variant
+Somatic transgene silencing variant
+Spastic locomotion
+Sperm morphology variant
+Sperm nonmotile
+Sperm pseudopod physiology variant
+Sperm pseudopod variant
+Sperm recruitment variant
+Sperm release defective
+Sperm transfer cessation defective
+Sperm transfer continuation defective
+Sperm transfer defective
+Sperm transfer initiation defective
+Spermatogenesis to oogenesis switch defective
+Spermatozoa retro location defective
+Spicule insertion defective
+Spicule morphology variant
+Spicules crumpled
+Spindle absent early emb
+Spindle assembly defective early emb
+Spindle defective early emb
+Spindle elongation integrity defective early emb
+Spindle orientation defective early emb
+Spindle orientation variant
+Spindle position defective early emb
+Spindle position orientation defective early emb
+Spindle rotation defective early emb
+Spontaneous mutation rate increased
+Spontaneous reversal rate variant
+Spontaneous reversal variant
+Spontaneous spicule protraction
+Sporadic pumping
+Squat
+Stage specific cuticle antigenicity variant
+Starvation induced dauer formation defective
+Starvation induced dauer formation increased
+Starvation induced dauer formation variant
+Starvation resistant
+Starvation suppressed pumping defective
+Starved
+Sterile
+Sterol induced dauer formation variant
+Stress induced arrest variant
+Stress induced lethality increased
+Stress induced lethality variant
+Struts variant
+Stuffed pharynx
+Supernumerary molt
+Suppressed pharyngeal pumping defective
+Surface antigen negative
+Surface antigenicity variant
+Surface coat variant
+Sustained spicule protraction defective
+Swimming variant
+Synaptic input variant
+Synaptic output variant
+Synaptic transmission variant
+Synaptic vesicle endocytosis variant
+Synaptic vesicle exocytosis variant
+Synaptic vesicle homeostasis variant
+Synaptogenesis variant
+Synchronous second division early emb
+Systemic RNAi variant
+T lineages variant
+Tail bobbed
+Tail development variant
+Tail morphology variant
+Tail protrusions
+Tail rounded
+Tail spike variant
+Tail swelling
+Tail withered
+Telomere homeostasis variant
+Telomere length regulation variant
+Temperature induced dauer formation defective
+Temperature induced dauer formation increased
+Temperature induced dauer formation variant
+Temperature influenced life span variant
+Terminal arrest variable
+Terminal bulb contraction variant
+Thermal bias in tracking variant
+Thermophilic
+Thermoreceptor currents absent
+Thermotolerance increased
+Thermotolerance reduced
+Thin
+Thrashing increased
+Thrashing reduced
+Three fold arrest
+Tight junction defective
+Touch receptor cell morphology variant
+Touch resistant
+Touch response abnormal
+Transformer
+Transgene expression increased
+Transgene expression reduced
+Transgene expression undetectable
+Transgene expression variant
+Transgene induced cosuppression variant
+Transgene silencing variant
+Transgene subcellular localization variant
+Transient bloating
+Translation variant
+Transposon mutator
+Transposon silencing variant
+Trimethadione resistant
+Trimethylthiazole chemotaxis defective
+Trimethylthiazole chemotaxis variant
+Tube morphogenesis variant
+Tunicamycin hypersensitive
+Tunicamycin response variant
+Twitcher
+Two fold arrest
+U lineage variant
+UV induced apoptosis decreased
+UV induced mitotic germ cell arrest defective
+Unclassified
+Underinduced
+Unfertilized oocytes laid
+Unfolded protein accumulation
+Unfolded protein response variant
+Uptake by intestinal cell defective
+Uptake of yolk defective
+Uterine vulval cell development variant
+Uterine vulval cell morphology variant
+V lineages variant
+VNC nuclear positioning variant
+VPC cell division precocious
+VPC cell division variant
+Variant
+Ventral coiler
+Ventral enclosure variant
+Vesicle number reduced
+Vesicle number variant
+Vesicle organization variant
+Vesicle trafficking variant
+Vulva cell fate specification variant
+Vulva location variant
+Vulval cell induction increased
+Vulval cell induction reduced
+Vulval cell induction variant
+Vulval cell lineage variant
+Vulval muscle unresponsive to serotonin
+Vulval precursor cell induction abnormal
+Vulvaless
+W lineage variant
+Weak pumping
+Wing cilia axoneme morphology variant
+Wing cilia axoneme short
+Wing cilia bulbous
+Wing cilia morphology variant
+X chromosome nondisjunction
+X linked gene expression enhanced
+X linked gene expression reduced
+X0 lethal
+XX lethal
+XXX progenies
+Y lineage variant
+Z1 hermaphrodite lineage variant
+Z1 male lineage variant
+Z4 hermaphrodite lineage variant
+Z4 male lineage variant
+Zinc cellular homeostasis variant
+Zinc response variant
+Zinc toxicity hypersensitive
+Zinc toxicity resistant
+Zonula occludens abnormal
+Zygotic development variant
+Zygotic lethal
+aboc expulsion missing
+absolute cell cycle timing defective early emb
+accumulated cell corpses
+accumulated germline cell corpses
+accumulated somatic cell corpses
+acetate chemotaxis defective
+acetone chemotaxis variant
+acetylcholine levels variant
+acetylcholine metabolism variant
+acetylcholine synaptic transmission variant
+acetylcholinesterase inhibitor hypersensitive
+acetylcholinesterase inhibitor resistant
+acetylcholinesterase inhibitor response variant
+acetylcholinesterase reduced
+acidification level defective
+actin cytoskeleton dynamics variant
+actin cytoskeleton filament morphology variant
+actin organization biogenesis variant
+active phase switch defective
+active phase variant
+activity level variant
+adherens junction variant
+adoption of fused vulval cell fate
+adrenergic receptor antagonist response variant
+adult behavior variant
+adult body morphology variant
+adult cuticle development variant
+adult development variant
+adult growth variant
+adult lethal
+adult pigmentation variant
+age associated fluorescence increased
+age associated fluorescence reduced
+aging variant
+alae absent
+alae secretion variant
+alae variant
+aldicarb hypersensitive
+aldicarb resistant
+aldicarb response variant
+alimentary system development variant
+alimentary system morphology variant
+alimentary system physiology variant
+alimentary system pigmentation variant
+alpha amanitin hypersensitive
+alpha amanitin resistant
+alternative splicing variant
+ammonium acetate chemotaxis defective
+ammonium chemotaxis defective
+ammonium chloride adaptation defective
+ammonium chloride chemotaxis defective
+ammonium chloride chemotaxis variant
+amphid channel axoneme morphology variant
+amphid channel axoneme short
+amphid channel cilia bulbous
+amphid channel cilia morphology variant
+amphid morphology variant
+amphid phasmid morphology variant
+amphid phasmid sensillum morphology variant
+amphid sheath cell morphology variant
+amphid sheath secretion failure
+anal depressor contraction defect
+anaphase bridging
+anchor cell fusion defective
+anesthetic hypersensitive
+anesthetic resistant
+anesthetic response variant
+aneuploidies
+anion positive chemotaxis defective
+anion positive chemotaxis variant
+annulae morphology variant
+anoxia hypersensitive
+anoxia resistant
+anoxia response attenuated
+anterior body contraction defecation cycle variant
+anterior body contraction variant
+anterior body morphology variant
+anterior cell migration defective
+anterior neuron migration defective
+anterior pale
+anterior pigmentation variant
+anterior region morphology variant
+anterograde transport defective
+anterograde transport variant
+antibody staining increased
+antibody staining reduced
+antibody staining variant
+antibody subcellular localization variant
+anticonvulsant resistant
+anticonvulsant response variant
+antihelmintic response variant
+antimicrobial gene expression variant
+apoptosis fails to occur
+apoptosis increased
+apoptosis protracted
+apoptosis reduced
+apoptosis variant
+apoptotic arrest
+approximate vulval location variant
+aqueous adaptation defective
+aqueous chemosensory response variant
+aqueous compound discrimination defective
+aqueous negative chemotaxis defective
+aqueous negative chemotaxis variant
+aqueous positive chemotaxis defective
+aqueous positive chemotaxis variant
+arecoline hypersensitive
+arecoline resistant
+associative learning variant
+aster AB defective early emb
+aster AB resembles P1 aster early emb
+aster defective early emb
+asymmetric cell division defective early emb
+asymmetric cell division variant
+athermotactic
+attraction signal defective
+autophagic cell death variant
+autosomal nondisjunction meiosis
+avoids bacterial lawn
+axodendritic polarity variant
+axon branching variant
+axon development variant
+axon fasciculation variant
+axon guidance variant
+axon midline crossing variant
+axon outgrowth variant
+axoneme morphology variant
+axoneme short
+backing increased
+backing not sustained
+backing uncoordinated
+backward kinker
+backward locomotion variant
+bacterially unswollen
+bag of worms
+behavior variant
+benomyl response variant
+benzaldehyde chemotaxis defective
+benzaldehyde chemotaxis variant
+biofilm absent head
+biogenic amine physiology variant
+biogenic amine receptor antagonist resistant
+biosynthesis variant
+bis phenol A hypersensitive
+bis phenol A response variant
+blast cell development variant
+blast cell morphology variant
+blast cell physiology variant
+blast cell proliferation reduced
+blastocoel variant
+bleach hypersensitive
+bleach response variant
+blistered
+bloated
+body axis pigmentation variant
+body constriction
+body development variant
+body elongation defective
+body elongation retracted
+body elongation variant
+body length variant
+body levamisole resistant
+body morphology variant
+body muscle dystrophies
+body part pigmentation variant
+body posture variant
+body protrusions
+body region pigmentation variant
+body size enlarged
+body size reduced
+body size variant
+body twisted
+body vacuole
+body wall cell development variant
+body wall contraction interval variant
+body wall muscle cell spindle development variant
+body width variant
+bordering
+break induced focus formation variant
+bromide chemotaxis defective
+bromide chemotaxis variant
+brood size variant
+butanone chemotaxis defective
+butanone chemotaxis variant
+cAMP chemotaxis defective
+cAMP chemotaxis variant
+cGMP chemotaxis defective
+cGMP chemotaxis variant
+cadmium hypersensitive
+cadmium resistant
+cadmium response variant
+caffeine resistant
+calcium channel modulator hypersensitive
+calcium channel modulator resistant
+calcium channel modulator response variant
+carbon dioxide avoidance variant
+carbon dioxide response variant
+catalysis variant
+cation positive chemotaxis defective
+cation positive chemotaxis variant
+cell UV hypersensitive
+cell UV response variant
+cell acidification defective
+cell acidification variant
+cell adhesion variant
+cell cell contacts defective early emb
+cell cell contacts variant four emb
+cell cleavage delayed
+cell cleavage variant
+cell corpse appearance delayed
+cell corpse degradation variant
+cell corpse digestion variant
+cell corpse number variant
+cell cycle arrest
+cell cycle defective early emb
+cell cycle delayed
+cell cycle slow early emb
+cell cycle timing defective early emb
+cell cycle variant
+cell death sexually dimorphic increased
+cell death sexually dimorphic variant
+cell death variant
+cell degeneration
+cell development variant
+cell differentiation variant
+cell division failure
+cell division incomplete
+cell division polarity variant
+cell division precocious
+cell division slow
+cell division variant
+cell fate specification variant
+cell fate transformation
+cell fusion variant
+cell gamma ray hypersensitive
+cell gamma ray resistant
+cell gamma ray response variant
+cell growth variant
+cell homeostasis metabolism variant
+cell induction variant
+cell ionizing radiation response variant
+cell junction variant
+cell membrane morphology variant
+cell migration failure
+cell migration variant
+cell morphology variant
+cell organization biogenesis variant
+cell physiology variant
+cell pigmentation variant
+cell polarity reversed
+cell polarity variant
+cell position defective early emb
+cell proliferation increased
+cell proliferation reduced
+cell proliferation variant
+cell secretion variant
+cell stress response variant
+cell survival sexually dimorphic increased
+cellular secretion abnormal
+centration defective early emb
+centriole biogenesis variant
+centrosome attachment defective early emb
+centrosome pair and associated pronuclear rotation variant
+cephalic sensillum morphology variant
+chemical resistant
+chemical response variant
+chemosensation defective
+chemosensation variant
+chemosensory behavior variant
+chemosensory neuron development variant
+chemosensory response variant
+chemotaxis variant
+chloride chemotaxis defective
+chloride chemotaxis variant
+chloroquinone hypersensitive
+chloroquinone resistant
+cholesterol depletion hypersensitive
+cholinergic agonist hypersensitive
+cholinergic agonist resistant
+chondroitin biosynthesis variant
+chromosome alignment variant
+chromosome disjunction defective
+chromosome instabilities
+chromosome segregation variant
+cilia absent
+cilia mislocalized
+cilia morphology variant
+ciliated neuron morphology variant
+ciliated neuron physiology variant
+circadian rhythm behavior variant
+clear
+cleavage furrow defective early emb
+cleavage furrow initiation defective early emb
+cleavage furrow not discrete early emb
+cleavage furrow termination defective early emb
+coelomic system development variant
+coelomic system morphology variant
+coelomic system physiology variant
+coelomocyte physiology variant
+coelomocyte uptake defective
+coelomocyte uptake increased
+coenzyme Q depleted
+coiler
+colchicine hypersensitive
+colchicine resistant
+comma arrest emb
+commissure handedness defective
+commisure growth variant
+complex phenotype early emb
+connected mitochondria
+connective tissue morphology variant
+connective tissue variant
+constipated
+constitutive egg laying
+constitutive enzyme activities
+constitutive larval display
+contraction response to ouabain resistant
+copper hypersensitive
+copper response variant
+copulation variant
+corpus contraction defect
+cortical dynamics defective early emb
+cross link induced focus formation variant
+cryophilic
+curlies
+curly
+cuticle attachment variant
+cuticle carbohydrate surface variant
+cuticle development variant
+cuticle fragile
+cuticle integrity variant
+cuticle morphology variant
+cuticle physiology variant
+cuticle shedding defect
+cyclic nucleotide positive chemotaxis variant
+cyproheptadine resistant
+cytokinesis defective early emb
+cytokinesis fails early emb
+cytokinesis variant emb
+cytoplasmic RNAi defective
+cytoplasmic appearance defective early emb
+cytoplasmic appearance variant
+cytoplasmic dynamics defective early emb
+cytoplasmic morphology defective early emb
+cytoplasmic processing body variant
+cytoplasmic streaming defective
+cytoplasmic structure defective early emb
+cytoskeleton organization biogenesis variant
+dauer amphid sensillum variant
+dauer arrest variant
+dauer axial ratio variant
+dauer behavior variant
+dauer body morphology variant
+dauer buccal cavity morphology variant
+dauer cephalic sensillum variant
+dauer constitutive
+dauer cuticle variant
+dauer death increased
+dauer defective
+dauer deirid sensillum variant
+dauer development variant
+dauer excretory gland variant
+dauer feeding suppressed variant
+dauer formation variant
+dauer gonad arrest variant
+dauer gut variant
+dauer induction variant
+dauer inner labial sensillum variant
+dauer labial sensillum variant
+dauer lifespan variant
+dauer metabolism variant
+dauer nictation behavior variant
+dauer nose morphology variant
+dauer outer labial sensillum variant
+dauer pharynx morphology variant
+dauer pheromone production defective
+dauer pheromone secretion variant
+dauer pheromone sensation defective
+dauer pheromone sensation variant
+dauer recovery inhibited
+dauer recovery variant
+dauer reduced locomotion variant
+dauer resistance to harsh conditions variant
+dauer sensillum variant
+dauer sensory response variant
+dauer sensory system morphology variant
+dead eggs laid
+defecation contraction asynchronous
+defecation contraction variant
+defecation cycle temperature compensation variant
+defecation cycle variable length
+defecation cycle variants
+defecation missing motor steps
+defecation variant
+deirid sensillum morphology variant
+delayed hatching
+dendrite development variant
+dense core vesicle exocytosis variant
+development variant
+developmental behavior variant
+developmental delay
+developmental growth variant
+developmental morphology variant
+developmental pigmentation variant
+developmental timing variant
+diacetyl chemotaxis defective
+diacetyl chemotaxis variant
+diet induced life span variant
+diethyl ether hypersensitive
+diplo X gamete
+directionality variant
+disorganized pharyngeal EPG
+distal tip cell migration precocious
+distal tip cell migration variant
+distal tip cell morphology variant
+distal tip cell reflex failure
+division EMS before P2 early emb
+division axis defective early emb
+dominant negative enzyme
+dopamine adaptation defective
+dopamine adaptation variant
+dopamine catabolism defective
+dopamine deficient
+dopamine metabolism variant
+dopamine synthesis defective
+dorsal coiler
+dosage compensation variant
+drug adaptation variant
+drug hypersensitive
+drug induced gene expression variant
+drug induced life span variant
+drug induced locomotion variant
+drug resistant
+drug response variant
+drug withdrawal response variant
+dumpies
+dumpy
+duration of self fertility variant
+early divisions prolonged
+early eggs laid
+early elongation arrest
+early embryonic lethal
+early exit cell cycle
+early larval arrest
+early larval lethal
+echo defecation cycle
+ectopic axon outgrowth
+ectopic cell
+ectopic cleavage furrows early emb
+ectopic expression antibodies
+ectopic expression transgene
+ectopic neurite outgrowth
+ectopic neuron
+egg integrity defective early emb
+egg laying circuit variant
+egg laying defective
+egg laying event infrequent
+egg laying imipramine hypersensitive
+egg laying imipramine resistant
+egg laying irregular
+egg laying levamisole resistant
+egg laying phases variant
+egg laying phentolamine resistant
+egg laying response to drug variant
+egg laying response to food variant
+egg laying serotonin hypersensitive
+egg laying serotonin resistant
+egg laying serotonin variant
+egg laying variant
+egg long
+egg morphology variant
+egg pale
+egg retention
+egg round
+egg shape variable
+egg size defective early emb
+eggshell morphology variant
+electrophoretic variant protein
+electrophysiology variant
+embryo delayed at pronuclear contact early emb
+embryo disorganized
+embryo osmotic integrity defective early emb
+embryo osmotic pressure sensitive early emb
+embryo small
+embryonic arrest
+embryonic behavior variant
+embryonic cell fate specification variant
+embryonic cell lineage variant
+embryonic cell morphology variant
+embryonic cell organization biogenesis variant
+embryonic cell patterning variant
+embryonic cell physiology variant
+embryonic development variant
+embryonic developmental delay early emb
+embryonic growth variant
+embryonic lethal
+embryonic morphology defective early emb
+embryonic morphology variant
+embryonic pigmentation variant
+embryonic polarity variant
+embryonic rupture
+embryonic somatic cell fate specification variant
+embryonic terminal arrest variable emb
+embryos small early emb
+emetine hypersensitive
+endo siRNA binding variant
+endo siRNA production variant
+endocytic recycling defective
+endocytic transport defect
+endocytic transport variant
+endoderm absent
+endogenous synaptic amplitude variant
+endogenous synaptic event frequency reduced
+endogenous synaptic events variant
+endogenous transposase levels increased
+endoplasmic reticulum metabolism variant
+endoplasmic reticulum morphology variant
+endoplasmic reticulum symmetry variant early emb
+endoreduplication variant
+endosome biogenesis variant
+endosome fusion defective
+endosome to lysosome trafficking defective
+energy expenditure variant
+enflurane hypersensitive
+engulfment failure by killer
+engulfment variant
+enhanced locomotion defective
+enhanced taste aversion defective
+environmental stimuli induced gene expression variant
+enzyme activity increased
+enzyme activity reduced
+enzyme activity variant
+enzyme expression level reduced
+epidermis cuticle detached
+epidermis muscle detached
+epithelial attachment variant
+epithelial cell development variant
+epithelial cell fusion failure
+epithelial cell morphology variant
+epithelial cell physiology variant
+epithelial system development variant
+epithelial system morphology variant
+epithelial system physiology variant
+ethanol hypersensitive
+ethanol resistant
+ethosuximide resistant
+ethyl methanesulfonate response variant
+evoked postsynaptic amplitude reduced
+evoked postsynaptic current variant
+exaggerated asynchrony early emb
+excess maternal pronucleus early emb
+excess paternal pronucleus variant centrosome early emb
+excess pronucleus early emb
+excessive blebbing early emb
+excretory secretory system development variant
+excretory secretory system morphology variant
+excretory secretory system physiology variant
+excretory system development variant
+excretory system morphology variant
+excretory system physiology variant
+exocytosis variant
+exploded through vulva
+expression lipogenic enzyme reduced
+expulsion defective
+expulsion infrequent
+expulsion variant
+extended life span
+extra cell division postembryonic
+extracellular matrix variant
+failure to hatch
+fainter
+fat
+feeding behavior variant
+feeding inefficient
+feminization of XX and XO animals
+feminization of germ line
+feminization of germline
+fertility reduced
+fertility variant
+fertilization defect male
+fertilization defective
+fewer egg laying events during active
+flaccid
+fluoride resistant
+fluoxetine hypersensitive
+fluoxetine resistant
+food suppressed pumping variant
+foraging behavior variant
+foraging hyperactive
+foraging reduced
+forward kinker
+frequency body bend reduced
+gametogenesis variant
+gamma ray induced apoptosis increased
+garlic chemotaxis defective
+garlic chemotaxis variant
+gastrulation variant
+gene expression level high
+gene expression level reduced
+gene expression variant
+general pace of development defective early emb
+general pace of development variant
+genetic pathway activation variant
+genetic pathway variant
+genotoxic induced apoptosis variant
+germ cell cytoplasmic morphology variant
+germ cell death response to 5 FU resistant
+germ cell hypersensitive ionizing radiation
+germ cell ionizing radiation response variant
+germ cell mitosis metaphase to anaphase transition block
+germ cell morphology variant
+germ cell physiology variant
+germ cell resistant ionizing radiation
+germline RNAi resistant
+germline mortal
+germline transgene silencing variant
+giant oocytes
+gland cell development variant
+gland cell morphology variant
+gland cell physiology variant
+glycogen levels variant
+glycosyltransferase activity variant
+gonad development variant
+gonadal lineage variant
+granules cytoplasm
+growth arrest response to 5 FU resistant
+growth rate variant
+growth variant
+gut granule biogenesis reduced
+gut on the exterior
+habituation variant
+halothane hypersensitive
+halothane resistant
+harsh body touch resistant
+hatching variant
+heterochronic defect
+hexanol chemotaxis defective
+hexanol chemotaxis variant
+high incidence male progenies
+high oxygen hypersensitive
+high oxygen resistant
+high sodium chloride concentration osmotic avoidance defective
+high sodium chloride concentration osmotic avoidance variant
+homologous recombination increased
+hormetic temperature induced life span extension defective
+hormone metabolism variant
+hydroxyurea hypersensitive
+hydroxyurea response variant
+hyperactive
+hypercontracted
+hypersensitivity to mutagen
+hypoosmotic shock hypersensitive
+imipramine hypersensitive
+imipramine resistant
+inactive phase long
+inactive phase short
+inactive phase variant
+increased egg laying events during active
+increased genetic pathway signal
+induced cell death variant
+induced pharyngeal pumping variant
+inhibition of ovulation variant
+inhibition of synaptogenesis defective
+inhibition of synaptogenesis hyperactive
+inhibitor of serotonin uptake variant
+inhibitors of na k atpase resistant
+inhibitors of sodium potassium ATPase hypersensitive
+inner labial morphology variant
+integrity of membranous organelles defective early emb
+intercellular junction variant
+interphase entry defective early emb
+iodide chemotaxis defective
+iodide chemotaxis variant
+isoamyl alcohol chemotaxis defective
+isoamyl alcohol chemotaxis variant
+isoflurane hypersensitive
+isoflurane resistant
+isothermal tracking behavior variant
+isthmus corpus slipperies
+ivermectin response variant
+jerky movement
+kinker
+labial sensillum morphology variant
+lannate resistant
+large
+later divisions prolonged
+left handed roller
+lethal
+levamisole hypersensitive
+levamisole resistant
+levamisole response variant
+level of protein expression variant
+level of transgene expression variant
+life span variant
+ligand binding variant
+ligand gated channel activity variant
+light body touch resistant
+lima bean arrest
+lineage variant
+linker cell migration variant
+lipid composition variant
+lipid depleted
+lipid hydrolysis regulation variant
+lipid metabolism variant
+lipid modification variant
+lipid synthesis defective
+lipid synthesis increased
+lithium chemotaxis defective
+localized movement variant
+long
+loose mitotic furrow early emb
+loss of asymmetry ASE
+loss of left right neuronal asymmetries
+low incidence male progenies
+lumpies
+lumpy
+lysine chemotaxis defective
+lysosome homeostasis deficient
+lysosome organization biogenesis variant
+mRNA export variant
+mRNA expression variant
+mRNA levels increased
+mRNA levels reduced
+mRNA splicing variant
+mRNA surveillance defective
+mRNA turnover variant
+magnesium chemotaxis defective
+male fertility reduced
+male fertility variant
+male sterile
+manganese cellular homeostasis variant
+manganese response variant
+marginal cell development variant
+marginal cell morphology variant
+marginal cell physiology variant
+masculinization of germ line
+masculinization of germline
+maternal effect lethal emb
+maternal effect sterile
+maternal pronucleus indistinct early emb
+maternal sterile
+mechanosensation variant
+meiosis defective early emb
+meiosis metaphase to anaphase transition block
+meiotic chromosome segregation variant
+meiotic spindle defective early emb
+membrane trafficking variant
+metabolic pathway variant
+metal response variant
+metaphase to anaphase transition defect
+methiothepin resistant
+methyl methanesulfonate hypersensitive
+methyl methanesulfonate response variant
+miRNA expression variant
+mianserin resistant
+microsatellite instabilities
+microtubule depolymerization variant
+microtubule nucleation variant
+microtubule organization biogenesis variant
+microtubule polymerization variant
+mid larval arrest
+mid larval lethal
+mitochondria alignment variant
+mitochondria morphology variant
+mitochondria spacing variant
+mitochondria vesiculated
+mitochondrial membrane potential reduced
+mitochondrial metabolism variant
+mitosis variant
+mitotic chromosome segregation variant
+mitotic metaphase to anaphase transition defect
+mitotic spindle asters defective early emb
+mitotic spindle defective early emb
+molt defect
+morphology variant
+motor neuron morphology variant
+movement erratic
+movement reduced
+movement variant
+multiple cytoplasmic cavities early emb
+multiple nuclei early emb
+multipolar neuron
+necrotic cell death increased
+necrotic cell death variant
+negative chemotaxis variant
+nicotine hypersensitive
+nicotine resistant
+nicotine response variant
+no adult cuticle
+no back end
+no cleavage furrow first division early emb
+no cuticle
+no dauer recoveries
+no defecation cycle
+no expulsion defecation
+no male progenies
+no transport distal segment cilia
+no transport middle segment cilia
+no uterus
+non apoptotic cell death variant
+non bordering
+nonanone chemotaxis defective
+nonanone chemotaxis variant
+nonsense mRNA accumulation
+nose morphology variant
+nose resistant to fluoxetine
+nose rounded
+nose touch defective
+nose touch hypersensitive
+nose touch variant
+nose twisted
+nuclear RNAi defective
+nuclear appearance number defective early emb
+nuclear appearance variant
+nuclear division variant
+nuclear envelope assembly variant early emb
+nuclear envelope breakdown variant
+nuclear export defective
+nuclear membrane morphology variant
+nuclear morphology variation early emb
+nuclear number defective early emb
+nuclear number variant
+nuclear pore variant
+nuclear position defective early emb
+nuclear positioning variant
+nuclear rotation variant
+nuclei enlarged
+nuclei small
+nucleocytoplasmic transport defective
+nucleolus refraction variant
+nucleolus variant
+nucleus defective early emb
+nucleus reforms cell division remnant early emb
+nullo X gamete
+octanol chemotaxis defective
+octanol chemotaxis hypersensitive
+octanol chemotaxis variant
+octopamine deficient
+octopamine metabolism variant
+odorant adaptation variant
+odorant chemosensory response variant
+odorant discrimination defective
+odorant imprinting variant
+odorant negative chemotaxis defective
+odorant negative chemotaxis variant
+odorant positive chemotaxis defective
+odorant positive chemotaxis variant
+olfactory imprinting abnormal
+omega turns variant
+one cell arrest early emb
+one cell shape defective early emb
+one point five fold arrest emb
+oocyte morphology variant
+oocyte physiology variant
+organ senescence variant
+organ system development variant
+organ system morphology variant
+organ system physiology variant
+organ system pigmentation variant
+organelle fusion defective
+organelle metabolism variant
+organelle organization biogenesis variant
+organism UV hypersensitive
+organism UV resistant
+organism UV response variant
+organism X ray response variant
+organism behavior variant
+organism crowding response variant
+organism dessication response variant
+organism development variant
+organism electrophilic stress hypersensitive
+organism environmental stimulus response variant
+organism gamma ray response variant
+organism heat hypersensitive
+organism heat response variant
+organism high sodium chloride hypersensitive
+organism homeostasis metabolism variant
+organism hypersensitive X ray irradiation
+organism hypersensitive dessication
+organism hypersensitive gamma irradiation
+organism hypersensitive interstrand cross link agents
+organism hypersensitive ionizing radiation
+organism hypertonic lethality increased
+organism ionizing radiation response variant
+organism metabolism processing variant
+organism morphology variable
+organism morphology variants
+organism osmotic stress response variant
+organism oxidative stress resistant
+organism oxidative stress response hypersensitive
+organism oxidative stress response variant
+organism pathogen response variant
+organism physiology variant
+organism pigmentation variant
+organism response to pH variant
+organism segment development variant
+organism segment morphology variant
+organism starvation hypersensitive
+organism starvation response variant
+organism stress response variant
+organism temperature response variant
+organism toxic chemical response variant
+osmotic avoidance defective
+osmotic avoidance variant
+osmotic integrity variant
+osmotic stress response variant
+other abnormality early emb
+ouabain resistant
+outer labial morphology variant
+over retracted male tail
+overinduced
+ovulation variant
+oxidative stress response variant
+oxygen response variant
+pace of P lineage defective early emb
+pale
+paralysis response to ethanol hypersensitive
+paralysis response to ethanol resistant
+paralyzed
+paraquat hypersensitive
+paraquat resistant
+paraquat response variant
+passage through meiosis defective early emb
+patchy coloration
+paternal pronucleus migrates early emb
+pathogen adherence defect
+pathogen adherence variant
+pathogen induced cell death increased
+pathogen induced cell death reduced
+pathogen induced cell death variant
+pathogen induced death increased
+pathogen induced gene expression variant
+pathogen infected pharynx decrease
+pathogen infected pharynx variant
+pathogen load variant
+pathogen resistance increased
+pathogen susceptibility increased
+pattern of gene expression variant
+pattern of transgene expression variant
+pattern protein expression variant
+pentanedione chemotaxis variant
+pentanol chemotaxis defective
+pentanol chemotaxis variant
+pericellular component development variant
+pericellular component morphology variant
+pericellular component physiology variant
+periodic spicule prodding defective
+peroxisome morphology variant
+peroxisome physiology variant
+pesticide response variant
+phagosome maturation defective
+pharyngeal contraction defective
+pharyngeal contraction variant
+pharyngeal intestinal valve morphology variant
+pharyngeal muscle paralyzed
+pharyngeal pumping increased
+pharyngeal pumping irregular
+pharyngeal pumping rate variant
+pharyngeal pumping reduced
+pharyngeal pumping shallow
+pharyngeal pumping variant
+pharyngeal pumps brief
+pharyngeal relaxation defective
+pharyngeal relaxation variant
+pharynx slipperies
+phasmid morphology variant
+phasmid socket absent
+phentolamine resistant
+pheromone induced dauer formation defective
+pheromone induced dauer formation enhanced
+pheromone induced dauer formation variant
+pheromone induced larval display defective
+pheromone sensation variant
+pheromone suppressed pumping defective
+phorbol ester resistant
+phototaxis defective
+physiology variant
+pigmentation variant
+pirouette frequency variant
+pirouette variant
+plate tap reflex variant
+pleiotropic defects severe early emb
+pointed tail tip male
+polar body defective early emb
+polar body extrusion defective early emb
+polar body number defective early emb
+polar body number size early emb
+polar body reabsorbed early emb
+polar body reabsorbed one two early emb
+polar body size defective early emb
+positive chemotaxis defective
+positive chemotaxis variant
+post hermaphrodite contact variant
+post male contact variant
+post translational processing variant
+postembryonic behavior variant
+postembryonic cell lineage variant
+postembryonic development variant
+posterior body dumpies
+posterior body morphology variant
+posterior body thin
+posterior body wall contraction defecation cycle variant
+posterior body wall contraction defectives
+posterior body wall shortened interval
+posterior cell migration variant
+posterior neuron migration variant
+posterior pale
+posterior pigmentation variant
+posterior region morphology variant
+postsynaptic region physiology variant
+potassium chemotaxis defective
+pre hermaphrodite contact variant
+pre mRNA levels increased
+pre male contact variant
+precise vulval location variant
+precocious alae
+precocious cell fusion
+precocious heterochronic variations
+precocious seam cell fusion
+presynaptic region physiology variant
+pretzel arrest
+progeny variant
+programmed cell death variant
+progressive muscle detachment
+progressive paralysis
+prolonged pharyngeal contraction
+pronuclear breakdown asynchronous early emb
+pronuclear breakdown defective early emb
+pronuclear envelope defective early emb
+pronuclear envelope morphology defective early emb
+pronuclear migration defective early emb
+pronuclear migration failure early emb
+pronuclear migration reduced early emb
+pronuclear morphology defective early emb
+pronuclear nuclear appearance defective early emb
+pronuclear nuclear appearance variant emb
+pronuclear number defective early emb
+pronuclear size defective early emb
+pronuclei meet centrally early emb
+pronucleus centrosomes defective early emb
+pronucleus formation failure early emb
+protein DNA interaction variant
+protein aggregation variant
+protein degradation variant
+protein export from nucleus defective
+protein expression absent
+protein expression ectopic
+protein expression increased
+protein expression reduced
+protein expression variant
+protein interaction variant
+protein localization abnormal
+protein metabolism variant
+protein methylation variant
+protein modification variant
+protein neddylation variant
+protein phosphorylation increased
+protein phosphorylation reduced
+protein phosphorylation variant
+protein protein interaction variant
+protein rna interaction abolished
+protein secretion variant
+protein signaling variant
+protein stabilization variant
+protein subcellular localization variant
+protein transport variant
+protein ubiquitination variant
+pseudocleavage absent early emb
+pseudocleavage defective early emb
+pseudocleavage exaggerated early emb
+pseudocoelom development variant
+pseudocoelom morphology variant
+pumping absent
+pumping asynchronous
+pyrazine chemotaxis defective
+pyrazine chemotaxis variant
+quiescence variant
+quinine chemotaxis defective
+quinine chemotaxis variant
+radiation induced germ cell apoptosis resistant
+radiation induced reproductive cell death variant
+ray fusion
+ray loss
+ray tips swollen
+rays displaced
+rays fused
+rays missing
+receptor mediated endocytosis defective
+reduced brood size
+reduced pathogen accumulation
+reduced viability after freezing
+relative cell cycle timing defective early emb
+reproductive system development variant
+reproductive system morphology variant
+reproductive system physiology variant
+resistant to copper
+resistant to mutagens
+response to food variant
+response to injury variant
+response to multiple stressors variant
+retarded heterochronic variations
+reversed asynchrony early emb
+rhythm slow
+rhythmic behavior variant
+rhythmic tolerance to osmotic stress variant
+rhythmic tolerance to stress variant
+right handed roller
+roaming reduced
+rod like larval lethal
+roller
+rubber band
+rubberband
+satiety behavior variant
+scrawnies
+scrawny
+seam cell fusion variant
+second adult cuticle
+second messenger mediated signaling variant
+semi sterile
+sensilium sheath cell variant
+sensillum accessory cell morphology variant
+sensillum morphology variant
+serotonin catabolism defective
+serotonin deficient
+serotonin hypersensitive
+serotonin induced fat reduction variant
+serotonin induced pumping variant
+serotonin metabolism variant
+serotonin resistant
+serotonin response variant
+serotonin reuptake inhibitor hypersensitive
+serotonin reuptake inhibitor resistant
+serotonin synthesis defective
+sex determination variant
+sexual maturation defective
+sexually dimorphic behavior variant
+sexually dimorphic development variant
+sexually dimorphic lethalities
+sexually dimorphic mechanosensation variant
+sexually dimorphic morphology variant
+sexually dimorphic physiology variant
+shaker
+sheath cell secretion failure
+sheath cell secretion variant
+short
+shrinker
+siRNA expression variant
+sick
+sinusoidal movement variant
+sister chromatid segregation defective early emb
+skiddies
+skiddy
+slow development
+slow embryonic development
+slow growth
+slowing response on food variant
+sluggish
+small
+social behavior variant
+social feeding increased
+sodium acetate adaptation defective
+spindle absent early emb
+spindle assembly defective early emb
+spindle defective early emb
+spindle elongation integrity defective early emb
+spindle orientation defective early emb
+spindle orientation variant
+starvation resistant
+starved
+sterile
+telomere homeostasis variant
+telomere length regulation variant
+temperature influenced life span variant
+terminal arrest variable
+thermophilic
+translation variant
+transposon mutator
+transposon silencing variant
+underinduced
+unfolded protein accumulation
+unfolded protein response variant
+vesicle number reduced
+vesicle number variant
+vesicle organization variant
+vesicle trafficking variant
+zinc cellular homeostasis variant
+zinc response variant
+zinc toxicity hypersensitive
+zinc toxicity resistant

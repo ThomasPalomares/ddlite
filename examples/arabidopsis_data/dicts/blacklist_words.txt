@@ -182,3 +182,4 @@ id	stop_word
 172	WOODY
 125	WOULD
 1	localized
+2	root

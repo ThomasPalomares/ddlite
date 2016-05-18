@@ -183,3 +183,4 @@ id	stop_word
 125	WOULD
 1	localized
 2	root
+3	big

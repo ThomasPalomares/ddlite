@@ -184,3 +184,4 @@ id	stop_word
 1	localized
 2	root
 3	big
+4	WT

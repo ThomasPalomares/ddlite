@@ -178,7 +178,6 @@ class ConcatSingleDictionaryMatch(CandidateExtractor):
           # yield list(ssidx), self.label
 
     # Here we merge two candidates juxtaposed. 
-
     # Function to modify ending value of the candidate starting at the idx k if there is one or more candidates just afterwards.
     def merging_candidates_from_dict(dict_var, k):
       if k in dict_var:
@@ -194,16 +193,6 @@ class ConcatSingleDictionaryMatch(CandidateExtractor):
 
     for k in matched_seqs_ordered:
       yield list(range(k, matched_seqs_ordered[k]+1)), self.label
-
-
-
-
-
-class ConcatDictionaryMatch(CandidateExtractor):
-  """Concats several DictionaryMatches. For instance, if "geneA" and "geneB" are in a dictionary, the sentence "... geneA geneB ..." will extract one candidate: "geneA geneB" """
-  def init(self):
-    if len(self.candidate_extractors) == 0:
-      raise ValueError("Union must have one or more CandidateExtractors as inputs.")
 
 
 class RegexBase(CandidateExtractor):

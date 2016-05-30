@@ -185,3 +185,4 @@ id	stop_word
 2	root
 3	big
 4	WT
+5	or

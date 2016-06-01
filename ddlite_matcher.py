@@ -128,7 +128,7 @@ class ConcatDictionaryMatch(CandidateExtractor):
     self.label         = self.opts['label']
     self.dictionary    = self.opts['dictionary']
     #Optinal dictionnary for quality/linkwords
-    self.dictionary_optional_q = self.opts.get('dictionary_optional_q', None)
+    self.dictionary_optional_q = self.opts.get('dictionary_optional', None)
     self.match_attrib  = self.opts.get('match_attrib', 'words')
     self.ignore_case   = self.opts.get('ignore_case', True)
     self.longest_match = self.opts.get('longest_match', True)

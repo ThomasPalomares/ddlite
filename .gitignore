@@ -19,4 +19,7 @@ examples/mindtagger
 # pickled data from notebooks
 *.pkl
 
+#file_list.csv file from the PMC database
+examples/arabidopsis_data/pmc/PMC_OA_list.csv
+
 *.DS_Store

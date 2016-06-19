@@ -2,6 +2,16 @@
 
 [![Build Status](https://travis-ci.org/HazyResearch/ddlite.svg?branch=master)](https://travis-ci.org/HazyResearch/ddlite)
 
+### Fork for the arabidopsis project:
+
+This forked branch focuses on the Arabidopsis application, ongoing work from Thomas Palomares, Tanya Berardini and Alex Ratner.
+The main work is located in the arabidopsis branch.
+
+The main code is in examples/GenePhenoArabidopsis.ipynb. The folder examples/arabidopsis_data also contain useful files regarding the datasets and the preprocessing.
+
+NB: To stay sinc up with the main branch: https://syncing-a-fork/
+In particular, don't forget to rebase the arabidopsis branch from the master branch.
+
 #### Sponsored by: 
 <img src="figs/darpa.JPG" width="80" height="80" />
 #### as part of the [SIMPLEX](http://www.darpa.mil/program/simplifying-complexity-in-scientific-discovery) program under contract number N66001-15-C-4043.

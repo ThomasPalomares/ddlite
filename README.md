@@ -9,7 +9,7 @@ The main work is located in the arabidopsis branch.
 
 The main code is in examples/GenePhenoArabidopsis.ipynb. The folder examples/arabidopsis_data also contain useful files regarding the datasets and the preprocessing.
 
-NB: To stay sinc up with the main branch: https://syncing-a-fork/
+NB: To stay sinc up with the main ddlite repo: https://help.github.com/articles/syncing-a-fork/.
 In particular, don't forget to rebase the arabidopsis branch from the master branch.
 
 #### Sponsored by: 
